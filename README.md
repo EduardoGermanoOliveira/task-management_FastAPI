@@ -1,5 +1,6 @@
 # task-management_FastAPI
-![image](https://github.com/EduardoGermanoOliveira/task-management_FastAPI/assets/90634869/e55aae1f-1faa-4a56-8051-4fc6699c2a70)
+![image](https://github.com/EduardoGermanoOliveira/task-management_FastAPI/assets/90634869/74af4eb5-9f4d-42e3-a88f-3346ef81482d)
+
 
 O projeto consiste em criar uma API para gerenciamento de tarefas que permite a criação, leitura, atualização e exclusão de tarefas. Cada tarefa deve ter um título, descrição, status e data de criação.
 
